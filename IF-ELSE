@@ -1,0 +1,6 @@
+idade = int( input("Digite seua idade:") )
+
+if idade >= 18:
+    print("Permitido!")
+else :
+    print("Bloqueado, menor de idade!")
