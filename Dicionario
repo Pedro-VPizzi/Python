@@ -1,0 +1,10 @@
+pessoa = {
+    "nome": "Pedro",
+    "idade": 19,
+    "email": "pedropizzi53@gmail.com",
+}
+    
+
+print(pessoa['nome'] )
+print(pessoa['idade'] ) 
+print(pessoa['email'] )
